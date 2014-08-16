@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://roccozanni.com"
 twitter_username: roccozanni
 github_username:  roccozanni
+analytics_id: UA-25976166-1
 
 # Build settings
 markdown: kramdown
