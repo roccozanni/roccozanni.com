@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 This is a simple website I use to host some information about myself and some notes about coding.
